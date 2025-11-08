@@ -1,11 +1,7 @@
 ## Hola 👋
 
 Takemichi solo Takemichi :shipit:
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeMichiks&hide=Vim+Script,Emacs+Lisp,Lua,CSS,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 <h3 align="center"> Languages, Tools and Stats </h3>
 <p align="center">
 	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
@@ -22,8 +18,15 @@ Takemichi solo Takemichi :shipit:
 	<img src="https://img.icons8.com/material-sharp/50/fa314a/crab.png" width="30"/>
 	<img src="https://img.icons8.com/wired/64/4a90e2/svetle.png"/ width="30">
 </p>
-<div align="center">
 
-[![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeMichiks&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+	<div align="left">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeMichiks&hide=Vim+Script,Emacs+Lisp,Lua,CSS,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </div >
+<div align="right">
+[![Take GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeMichiks&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+</span>
+
