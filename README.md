@@ -22,3 +22,8 @@ Takemichi solo Takemichi :shipit:
 	<img src="https://img.icons8.com/material-sharp/50/fa314a/crab.png" width="30"/>
 	<img src="https://img.icons8.com/wired/64/4a90e2/svetle.png"/ width="30">
 </p>
+<div align="center">
+
+[![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakeMichisk&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
