@@ -28,6 +28,3 @@ Takemichi solo Takemichi :shipit:
 </h3>
 
 
-![image alt](https://github.com/TakeMichiks/TakeMichiks/blob/main/Objetives.bmp)
-
-
